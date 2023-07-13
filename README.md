@@ -23,22 +23,28 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="70%" width="70%" alt="Configure Roles"/>
+<img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/e774d627-d879-41bb-91eb-c4c10527a6de" height="70%" width="70%" alt="Configure Roles"/>
 </p>
 <p>
-1. Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Roles</a> <br>
+<img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/d8e87543-3dce-4b09-bd5b-9b013b31d929" height="70%" width="70%" alt="Configure Roles"/>
+</p>
+<p>
+1. Configure <a href="https://imgur.com/a/JzSxC9L">Roles</a> <br>
   A. Admin Panel -> Agents -> Roles <br>
-  B. Supreme Admin
+  B. Add New Role -> Type "Supreme Admin" -> Checkmark all boxes under "Permissions" (tickets, task, and knowledeg) -> Add Role
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="70%" width="70%" alt="Configure Departments"/>
+<img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/7d00d93f-4c9d-44a3-9a6c-704f885fb821" height="70%" width="70%" alt="Configure Departments"/>
 </p>
 <p>
-2. Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Departments.html">Departments</a> <br>
+<img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/773b696c-ae94-48e1-a62e-938fcc02e8f7" height="70%" width="70%" alt="Configure Departments"/>
+</p>
+<p>
+2. Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Departments.html">Departments</a><br>
     A. Admin Panel -> Agents -> Departments <br>
-    B. System Administrators
+    B. Add New Department -> Type "System Administrators" -> Create Dept
 </p>
 <br />
 
