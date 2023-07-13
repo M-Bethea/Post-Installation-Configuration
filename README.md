@@ -49,33 +49,47 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="70%" width="70%" alt="Configure Teams"/>
+<img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/e8ed17ad-4714-4d96-a091-bcac076e3228" height="70%" width="70%" alt="Configure Teams"/>
+</p>
+<p>
+<img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/eb3a3832-0c70-4a1c-9857-9b8d7cbc6b55" height="70%" width="70%" alt="Configure Teams"/>
 </p>
 <p>
 3. Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">Teams</a> <br>
   A. Admin Panel -> Agents -> Teams <br>
   i.  Level I Support <br>
-  ii.  Level II Support
+  ii. Add New Team -> Level II Support -> Create Team
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="70%" width="70%" alt="Create Ticket"/>
+<img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/89e4f2ef-f263-4dd2-9c03-deb601c869f0" height="70%" width="70%" alt="Create Ticket"/>
 </p>
 <p>
   4. Allow anyone to <a href="https://docs.osticket.com/en/latest/Developer%20Documentation/API/Tickets.html#:~:text=Tickets%20can%20be%20created%20in,format%20of%20the%20request%20content.">Create Tickets</a> <br>
-  A. Admin Panel -> Settings -> User Settings <br>
+  A. Admin Panel -> Settings -> Users <br>
   B. Registration Required: Require registration and login to create tickets 
+    i. Make sure Registration Method says "Public - Anyone Can Register"
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="70%" width="70%" alt="Configure Agents"/>
+<img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/0a4017f8-cc1c-4a6e-8cce-b613b04526c7" height="70%" width="70%" alt="Configure Agents"/>
 </p>
+<p>
+<img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/6842365b-2c18-4f9f-a876-1f39f7c2ed6e" height="70%" width="70%" alt="Configure Agents"/>
+</p>
+<p>
+<img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/f0992309-60f5-4c0c-96b5-358ba6739131" height="70%" width="70%" alt="Configure Agents"/>
+</p>
+<p>
+<img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/78af1cd1-4021-46d1-9f2d-f83cb0e7583e" height="70%" width="70%" alt="Configure Agents"/>
+</p>
+
 <p>
 5. Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">Agents (workers)</a> <br>
   A. Admin Panel -> Agents -> Add New <br>
-  i. Jane <br>
+  i. Jane: Add new agent -> Fill out first name, last name, email and username -> Set Password -> Go to Teams -> Choose Support Level -> Add -> Create <br>
   ii. John
 </p>
 <br />
