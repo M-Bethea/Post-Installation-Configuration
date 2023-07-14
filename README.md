@@ -77,8 +77,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 5. Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">Agents (workers)</a> <br>
   A. Admin Panel -> Agents -> Add New <br>
-  i. Jane: Add new agent -> Fill out first name, last name, email and username -> Set Password -> Go to Teams -> Choose Support Level -> Add -> Create <br>
-  ii. John (Try giving John a different department and role)
+  i. Jane: Add new agent -> Fill out first name, last name, email and username -> Set Password -> Go to Teams -> Choose Support Level -> Add  <br> 
+  ii. Be sure to fill out (for the Sys Admin): Extended Access -> Support -> Add -> Supreme Admin ->  <br>
+  iii. John (Try giving John a different department and role)
 </p>
 <p>
 <img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/0a4017f8-cc1c-4a6e-8cce-b613b04526c7" height="70%" width="70%" alt="Configure Agents"/>
@@ -87,7 +88,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/6842365b-2c18-4f9f-a876-1f39f7c2ed6e" height="70%" width="70%" alt="Configure Agents"/>
 </p>
 <p>
-<img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/f0992309-60f5-4c0c-96b5-358ba6739131" height="70%" width="70%" alt="Configure Agents"/>
+<img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/71adf974-b47a-47d3-b6d5-b206864a50fe" height="70%" width="70%" alt="Configure Agents"/>
 </p>
 <p>
 <img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/78af1cd1-4021-46d1-9f2d-f83cb0e7583e" height="70%" width="70%" alt="Configure Agents"/>
