@@ -77,8 +77,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 5. Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">Agents (workers)</a> <br>
   A. Admin Panel -> Agents -> Add New <br>
-  i. Jane: Add new agent -> Fill out first name, last name, email and username -> Set Password -> Go to Teams -> Choose Support Level -> Add  <br> 
-  ii. Be sure to fill out (for the Sys Admin): Extended Access -> Support -> Add -> Supreme Admin ->  <br>
+  i. Jane: Add new agent -> Fill out first name, last name, email and username -> Set Password -> Go to Teams -> Choose Support Level -> Add -> Create  <br> 
+  ii. !!! Important !!! Be sure to fill out (for the Sys Admin): Extended Access -> Support -> Add -> Supreme Admin -> Create  <br>
   iii. John (Try giving John a different department and role)
 </p>
 <p>
