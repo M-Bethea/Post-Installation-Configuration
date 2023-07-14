@@ -124,12 +124,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 8. Configure <a href="https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html">Help Topics</a> <br>
   A. Admin Panel -> Manage -> Help Topics <br>
-  i. Business Critical Outage <br>
+  i. Business Critical Outage: Add New Help Topic -> Topic -> Add Topic <br>
   ii. Personal Computer Issues <br>
   iii. Equipment Request <br>
   iv. Password Reset
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="70%" width="70%" alt="Configure Help Topics"/>
+<img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/34b3d90c-a446-40c6-8942-c8ec5617547a" height="70%" width="70%" alt="Configure Help Topics"/>
+</p>
+<p>
+<img src="https://github.com/M-Bethea/Post-Installation-Configuration/assets/139162550/fcd158ba-b6f4-4607-9cce-d43a013197e8" height="70%" width="70%" alt="Configure Help Topics"/>
 </p>
 <br />
