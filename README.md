@@ -17,8 +17,14 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Azure VMs
-- osTicket
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Assign Permissions
+- Configure Agents
+- Configure Users
+- Configure SLA's
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
